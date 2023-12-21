@@ -8,6 +8,8 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 import java.sql.SQLException;
+import database.DatabaseManager;
+
 
 public class AdminDashboard extends Application {
 

@@ -1,4 +1,4 @@
-package application;
+package model;
 
 public class User {
     private int id;

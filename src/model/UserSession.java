@@ -1,4 +1,4 @@
-package application;
+package model;
 
 public class UserSession {
     private static int currentUserId;

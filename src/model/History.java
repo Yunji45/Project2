@@ -1,4 +1,4 @@
-package application;
+package model;
 
 import java.sql.Timestamp;
 import javafx.beans.property.SimpleIntegerProperty;

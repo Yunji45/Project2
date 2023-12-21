@@ -8,7 +8,9 @@ import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
-import application.History;
+import model.History;
+import database.DatabaseManager;
+
 
 import java.util.List;
 

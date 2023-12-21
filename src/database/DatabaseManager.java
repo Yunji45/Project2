@@ -1,4 +1,4 @@
-package application;
+package database;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -8,7 +8,8 @@ import java.util.List;
 import application.ManageProduct.Product;
 import java.sql.ResultSet;
 import application.Cart;
-import application.History;
+import model.History;
+import model.User;
 import java.sql.Timestamp;
 import java.sql.Statement;
 
@@ -16,7 +17,7 @@ import java.sql.Statement;
 
 
 public class DatabaseManager {
-    private static final String DB_URL = "jdbc:mysql://localhost:8889/JavaPro";
+    private static final String DB_URL = "jdbc:mysql://localhost:8889/JavaEco";
     private static final String USERNAME = "admin";
     private static final String PASSWORD = "updatedata";
 

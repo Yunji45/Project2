@@ -10,6 +10,8 @@ import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 import java.util.List;
+import database.DatabaseManager;
+import model.History;
 
 
 public class HistoryPage {

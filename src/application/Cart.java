@@ -14,6 +14,8 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
+import database.DatabaseManager;
+import model.History;
 
 
 import java.util.List;

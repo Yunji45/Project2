@@ -16,6 +16,8 @@ import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 import javafx.stage.Stage;
+import database.DatabaseManager;
+
 
 public class Register extends Application {
     // Komponen GUI

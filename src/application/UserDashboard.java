@@ -15,7 +15,9 @@ import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import java.util.List;
-import application.UserSession;
+import model.UserSession;
+import database.DatabaseManager;
+
 
 import application.ManageProduct.Product;
 
